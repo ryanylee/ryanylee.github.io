@@ -8,9 +8,12 @@
 }
 
 body:has(.page) {
-  padding: 24px 12px;
-  max-width: 768px;
+  padding: 36px 12px;
+  max-width: 640px;
   margin: 0 auto;
+
+  font-size: 0.875rem;
+  line-height: 1.5;
 }
 
 hr {
