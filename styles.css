@@ -8,10 +8,10 @@
 }
 
 body:has(.page) {
-  padding: 36px 12px;
+  padding: 12px;
   max-width: 640px;
   margin: 0 auto;
-
+  white-space: pre-line;
   font-size: 0.875rem;
   line-height: 1.5;
 }
